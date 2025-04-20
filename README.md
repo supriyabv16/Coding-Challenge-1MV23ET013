@@ -13,7 +13,7 @@
       a=b
       b=c
 
-2. prime numbers till N
+2.prime numbers till N
   N=int(input("Enter the max value:"))
   for N in range(1,N+1):
      count=0
